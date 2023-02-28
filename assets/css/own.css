@@ -1,0 +1,22 @@
+.tab-content{
+    display: none;
+}
+
+.is-active{
+    display: block;
+}
+
+.not-active{
+    display: none!important;
+}
+
+.disabled-link {
+    pointer-events: none;
+}
+
+.hide{
+    display: none;
+}
+html {
+    scroll-behavior: smooth;
+  }
